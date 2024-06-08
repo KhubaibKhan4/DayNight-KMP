@@ -1,6 +1,6 @@
 # DayNight-KMP
-DayNight-KMP is a demo version of Dark & Light Theme with Trandational Sun & Moon UI. It contains the Container UI & Switch UI Too. 
 ![DayNight-KMP](https://github.com/KhubaibKhan4/DayNight-KMP/blob/master/assests/screenshots/poster.png)
+DayNight-KMP is a demo version of Dark & Light Theme with Trandational Sun & Moon UI. It contains the Container UI & Switch UI Too. It uses the `day-and-night-switch` Library.
 
 ## Before running!
  - check your system with [KDoctor](https://github.com/Kotlin/kdoctor)
